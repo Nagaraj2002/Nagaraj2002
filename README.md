@@ -1,3 +1,5 @@
+<p align="center"> <img src="https://miro.medium.com/v2/resize:fit:828/format:webp/1*b29pJKZqp6Jxb3rd9QlJiw.png" alt="Nagaraj Gaddi" width="100%" height="auto"> </p>
+
 <h1 align="center">Hi 👋, I'm Nagaraj Gaddi</h1>
 <h3 align="center">A passionate full stack developer from India</h3>
 
