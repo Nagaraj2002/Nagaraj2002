@@ -1,4 +1,4 @@
-<p align="center"> <img src="https://drive.google.com/file/d/1ImEi-2lOs2hxWi8Hbyp-Z3OStyti7lh3/view?usp=sharing" alt="Nagaraj Gaddi" width="100%" height="auto"> </p>
+<p align="center"> <img src="https://github.com/Nagaraj2002/git-dummy/blob/main/Gemini_Generated_Image_5xbvtf5xbvtf5xbv.jpeg" alt="Nagaraj Gaddi" width="100%" height="auto"> </p>
 
 <h1 align="center">Hi 👋, I'm Nagaraj Gaddi</h1>
 <h3 align="center">A passionate full stack developer from India</h3>
